@@ -1,0 +1,2 @@
+include ':app', ':variables', ':globalvariables'
+rootProject.name='VariableExample'
